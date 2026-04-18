@@ -73,3 +73,21 @@ sudo apt-get install -y libfftw3-dev
 
 # Install additional dependencies
 sudo apt-get install -y pkg-config
+
+```
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/rtl-sdr-band-scanner.git
+cd rtl-sdr-band-scanner
+
+# Create build directory
+mkdir build && cd build
+
+# Configure with CMake
+cmake ..
+
+# Compile
+make -j$(nproc)
+
+# The executable 'scanner' will be created in the build directory
