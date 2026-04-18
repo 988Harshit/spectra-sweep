@@ -10,7 +10,7 @@
 
 **spectrum monitoring and signal detection for RTL-SDR dongles**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Configuration](#configuration) • [Output](#example-output) • [License](#license)
+
 
 </div>
 
