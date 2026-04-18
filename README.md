@@ -40,7 +40,7 @@ The RTL-SDR Advanced Band Scanner is a professional-grade spectrum monitoring to
 |  Ham 2m | 144.0 - 148.0 MHz | 2.0 MHz | NFM |
 |  Marine VHF | 156.0 - 162.0 MHz | 2.0 MHz | NFM |
 |  Ham 70cm | 420.0 - 450.0 MHz | 2.0 MHz | NFM/Digital |
-|  Business/PS | 450.0 - 470.0 MHz | 2.0 MHz | NFM/Digital |
+|  PS | 450.0 - 470.0 MHz | 2.0 MHz | NFM/Digital |
 |  Cellular Low | 700.0 - 800.0 MHz | 2.0 MHz | Digital |
 |  Cellular High | 800.0 - 900.0 MHz | 2.0 MHz | Digital |
 |  ISM/Ham 33cm | 902.0 - 928.0 MHz | 2.0 MHz | Digital/NFM |
