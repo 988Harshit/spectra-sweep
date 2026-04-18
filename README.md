@@ -24,7 +24,7 @@ The RTL-SDR Advanced Band Scanner is a professional-grade spectrum monitoring to
 
 -  **Automated Band Scanning** - Sweeps through predefined frequency ranges
 -  **Real-time Signal Detection** - Identifies signals above noise floor
--  **Signal Classification** - Automatically identifies modulation types (FM, AM, Digital, etc.)(Can be changed based on user requirement)
+-  **Signal Classification** - Automatically identifies modulation types (Can be changed based on user requirement)
 -  **Persistence Tracking** - Eliminates false positives by tracking signals over multiple scans
 -  **Signal Strength Ranking** - Shows strongest signals in current environment
 -  **Bandwidth Measurement** - Calculates -3dB bandwidth for each signal
