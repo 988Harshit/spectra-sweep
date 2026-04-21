@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![RTL-SDR](https://img.shields.io/badge/RTL--SDR-Compatible-red)
 
-**spectrum monitoring and signal detection for RTL-SDR dongles**
+**spectrum monitoring and signal detection for RTL SDR dongles**
 
 
 
